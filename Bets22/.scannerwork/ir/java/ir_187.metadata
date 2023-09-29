@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#getTypedUser(Ljava/lang/String;Ljava/lang/String;)Ljava/util/Vector;
+==
+getTypedUser dataAccess.DataAccess#getTypedUser(Ljava/lang/String;Ljava/lang/String;)Ljava/util/Vector;
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open(Z)V

@@ -1,0 +1,8 @@
+gui.MainGUI#getRdbtnNewRadioButton_2()Ljavax/swing/JRadioButton;
+javax.swing.JRadioButton#instance-init#
+javax.swing.JRadioButton#<init>(Ljava/lang/String;)V
+==
+setHorizontalAlignment javax.swing.AbstractButton#setHorizontalAlignment(I)V
+add javax.swing.ButtonGroup#add(Ljavax/swing/AbstractButton;)V
+addActionListener javax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V
+setBounds java.awt.Component#setBounds(IIII)V

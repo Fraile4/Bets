@@ -1,0 +1,5 @@
+domain.Question#DoesQuoteExists([Ljava/lang/String;)Z
+java.lang.String#compareTo(Ljava/lang/String;)I
+==
+getQuotes domain.Question#getQuotes()Ljava/util/Vector;
+getqAnswer domain.Quote#getqAnswer()[Ljava/lang/String;

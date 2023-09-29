@@ -1,0 +1,8 @@
+dataAccess.DataAccess#makeBet(Ljava/lang/String;FLjava/util/Vector;)V
+domain.Bet#<init>(Ldomain/User;Ljava/util/Vector;FLjava/lang/String;)V
+domain.Bet#instance-init#
+==
+addBet dataAccess.DataAccess#addBet(Ldomain/Bet;Ljava/lang/String;)V
+getUserName domain.User#getUserName()Ljava/lang/String;
+getUser dataAccess.DataAccess#getUser(Ljava/lang/String;)Ldomain/User;
+getFollowers domain.User#getFollowers()Ljava/util/Vector;

@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#isLogin(Ljava/lang/String;Ljava/lang/String;)Z
+==
+isLogin dataAccess.DataAccess#isLogin(Ljava/lang/String;Ljava/lang/String;)Z
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open(Z)V

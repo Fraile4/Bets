@@ -1,0 +1,8 @@
+domain.User#showMovements()Ljava/lang/String;
+java.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;
+==
+getAmount domain.Transaction#getAmount()Ljava/lang/Float;
+getType domain.Transaction#getType()Ljava/lang/String;
+println java.io.PrintStream#println(Ljava/lang/String;)V

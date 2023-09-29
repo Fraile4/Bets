@@ -1,0 +1,47 @@
+gui.RankingPlayersGUI#<init>(Ljava/lang/String;Ljava/lang/String;)V
+java.util.Vector#<init>()V
+javax.swing.JTable#<init>()V
+java.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;
+javax.swing.JPanel#<init>()V
+javax.swing.JButton#<init>(Ljava/lang/String;)V
+javax.swing.JScrollPane#instance-init#
+java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;
+javax.swing.border.EmptyBorder#instance-init#
+javax.swing.JPanel#instance-init#
+javax.swing.JScrollPane#<init>()V
+javax.swing.border.EmptyBorder#<init>(IIII)V
+java.util.Comparator#comparing(Ljava/util/function/Function;)Ljava/util/Comparator;
+java.util.Vector#instance-init#
+javax.swing.table.DefaultTableModel#<init>([[Ljava/lang/Object;[Ljava/lang/Object;)V
+java.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V
+gui.MainGUI#getBusinessLogic()LbusinessLogic/BLFacade;
+java.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;
+javax.swing.JTable#instance-init#
+java.lang.String#valueOf(F)Ljava/lang/String;
+javax.swing.JButton#instance-init#
+javax.swing.table.DefaultTableModel#instance-init#
+==
+getAllUsers businessLogic.BLFacade#getAllUsers()Ljava/util/Vector;
+addRow javax.swing.table.DefaultTableModel#addRow(Ljava/util/Vector;)V
+setModel javax.swing.JTable#setModel(Ljavax/swing/table/TableModel;)V
+addMouseListener java.awt.Component#addMouseListener(Ljava/awt/event/MouseListener;)V
+setBounds java.awt.Component#setBounds(IIII)V
+getColumnModel javax.swing.JTable#getColumnModel()Ljavax/swing/table/TableColumnModel;
+add java.util.Vector#add(Ljava/lang/Object;)Z
+reversed java.util.Comparator#reversed()Ljava/util/Comparator;
+setDefaultCloseOperation javax.swing.JFrame#setDefaultCloseOperation(I)V
+setViewportView javax.swing.JScrollPane#setViewportView(Ljava/awt/Component;)V
+setBorder javax.swing.JComponent#setBorder(Ljavax/swing/border/Border;)V
+setBounds java.awt.Window#setBounds(IIII)V
+getColumn javax.swing.table.TableColumnModel#getColumn(I)Ljavax/swing/table/TableColumn;
+add java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;
+getUserName domain.User#getUserName()Ljava/lang/String;
+print java.io.PrintStream#print(Ljava/lang/String;)V
+setPreferredWidth javax.swing.table.TableColumn#setPreferredWidth(I)V
+getEarnedMoney businessLogic.BLFacade#getEarnedMoney(Ldomain/User;)[F
+println java.io.PrintStream#println(Ljava/lang/String;)V
+setTitle java.awt.Frame#setTitle(Ljava/lang/String;)V
+setEnabled javax.swing.AbstractButton#setEnabled(Z)V
+setContentPane javax.swing.JFrame#setContentPane(Ljava/awt/Container;)V
+setLayout java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V
+addActionListener javax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V

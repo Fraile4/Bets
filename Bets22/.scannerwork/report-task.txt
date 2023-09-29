@@ -1,0 +1,7 @@
+organization=si2unai
+projectKey=si2unai_bets
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.46863
+dashboardUrl=https://sonarcloud.io/dashboard?id=si2unai_bets
+ceTaskId=AYrg7dpUHeA5GoGTCrjT
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYrg7dpUHeA5GoGTCrjT

@@ -1,0 +1,5 @@
+domain.Bet#getTotalQuote()F
+==
+getqFloat domain.Quote#getqFloat()Ljava/lang/Float;
+getQuotes domain.Bet#getQuotes()Ljava/util/Vector;
+size java.util.Vector#size()I

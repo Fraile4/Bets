@@ -1,0 +1,15 @@
+dataAccess.DataAccess#setQuestionResult(II)V
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getUser domain.Bet#getUser()Ldomain/User;
+getqNumber domain.Quote#getqNumber()I
+getUserName domain.User#getUserName()Ljava/lang/String;
+setFinished domain.Question#setFinished(Z)V
+getQuotes domain.Bet#getQuotes()Ljava/util/Vector;
+getQuotes domain.Question#getQuotes()Ljava/util/Vector;
+setState domain.Quote#setState(Ljava/lang/String;)V
+getState domain.Quote#getState()Ljava/lang/String;
+getBetsFromQuote dataAccess.DataAccess#getBetsFromQuote(Ldomain/Quote;)Ljava/util/Vector;
+getTotalQuote domain.Bet#getTotalQuote()F
+addFunds dataAccess.DataAccess#addFunds(Ljava/lang/String;Ljava/lang/Float;Ljava/lang/String;)V
+getImportedMoney domain.Bet#getImportedMoney()F

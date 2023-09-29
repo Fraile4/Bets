@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#getQuote(I)Ldomain/Quote;
+==
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open(Z)V
+getQuote dataAccess.DataAccess#getQuote(I)Ldomain/Quote;

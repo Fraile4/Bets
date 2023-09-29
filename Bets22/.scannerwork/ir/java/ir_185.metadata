@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#makeBet(Ljava/lang/String;FLjava/util/Vector;)V
+==
+close dataAccess.DataAccess#close()V
+makeBet dataAccess.DataAccess#makeBet(Ljava/lang/String;FLjava/util/Vector;)V
+open dataAccess.DataAccess#open(Z)V

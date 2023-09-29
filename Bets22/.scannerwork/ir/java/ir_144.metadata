@@ -1,0 +1,35 @@
+gui.FundsMovementsGUI#<init>(Ljava/lang/String;Ljava/lang/String;)V
+java.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;
+java.util.Locale#setDefault(Ljava/util/Locale;)V
+javax.swing.JPanel#<init>()V
+javax.swing.JButton#<init>(Ljava/lang/String;)V
+javax.swing.border.EmptyBorder#instance-init#
+java.util.Locale#instance-init#
+javax.swing.JTextPane#<init>()V
+javax.swing.JPanel#instance-init#
+javax.swing.border.EmptyBorder#<init>(IIII)V
+javax.swing.JTextPane#instance-init#
+javax.swing.JLabel#<init>(Ljava/lang/String;)V
+gui.MainGUI#getBusinessLogic()LbusinessLogic/BLFacade;
+java.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;
+javax.swing.JLabel#instance-init#
+java.awt.Font#<init>(Ljava/lang/String;II)V
+java.awt.Font#instance-init#
+java.util.Locale#<init>(Ljava/lang/String;)V
+javax.swing.JButton#instance-init#
+==
+setText javax.swing.JEditorPane#setText(Ljava/lang/String;)V
+setFont javax.swing.JComponent#setFont(Ljava/awt/Font;)V
+setBounds java.awt.Component#setBounds(IIII)V
+setDefaultCloseOperation javax.swing.JFrame#setDefaultCloseOperation(I)V
+setBorder javax.swing.JComponent#setBorder(Ljavax/swing/border/Border;)V
+setBounds java.awt.Window#setBounds(IIII)V
+add java.awt.Container#add(Ljava/awt/Component;)Ljava/awt/Component;
+setHorizontalAlignment javax.swing.JLabel#setHorizontalAlignment(I)V
+getUser businessLogic.BLFacade#getUser(Ljava/lang/String;)Ldomain/User;
+showMovements domain.User#showMovements()Ljava/lang/String;
+setTitle java.awt.Frame#setTitle(Ljava/lang/String;)V
+setContentPane javax.swing.JFrame#setContentPane(Ljava/awt/Container;)V
+setLayout java.awt.Container#setLayout(Ljava/awt/LayoutManager;)V
+setEditable javax.swing.text.JTextComponent#setEditable(Z)V
+addActionListener javax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V

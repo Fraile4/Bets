@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#getAllQuotes(Ldomain/Question;)Ljava/util/Vector;
+==
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open(Z)V
+getAllQuotes dataAccess.DataAccess#getAllQuotes(Ldomain/Question;)Ljava/util/Vector;

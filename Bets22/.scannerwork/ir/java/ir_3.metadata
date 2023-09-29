@@ -1,0 +1,10 @@
+dataAccess.DataAccess#createQuestion(Ldomain/Event;[Ljava/lang/String;FLjava/util/Vector;)Ldomain/Question;
+java.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;
+exceptions.QuestionAlreadyExist#<init>(Ljava/lang/String;)V
+java.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;
+exceptions.QuestionAlreadyExist#instance-init#
+==
+addQuestion domain.Event#addQuestion([Ljava/lang/String;FLjava/util/Vector;)Ldomain/Question;
+println java.io.PrintStream#println(Ljava/lang/String;)V
+getEventNumber domain.Event#getEventNumber()Ljava/lang/Integer;
+DoesQuestionExists domain.Event#DoesQuestionExists([Ljava/lang/String;)Z

@@ -1,0 +1,12 @@
+dataAccess.DataAccess#getTypedUser(Ljava/lang/String;Ljava/lang/String;)Ljava/util/Vector;
+java.util.Vector#<init>()V
+java.util.Vector#instance-init#
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.String#isEmpty()Z
+java.lang.String#trim()Ljava/lang/String;
+==
+getUserName domain.User#getUserName()Ljava/lang/String;
+getFolloweds domain.User#getFolloweds()Ljava/util/Vector;
+getUser dataAccess.DataAccess#getUser(Ljava/lang/String;)Ldomain/User;
+add java.util.Vector#add(Ljava/lang/Object;)Z
+equals java.lang.Object#equals(Ljava/lang/Object;)Z

@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#getEarnedMoney(Ldomain/User;)[F
+==
+close dataAccess.DataAccess#close()V
+getEarnedMoney dataAccess.DataAccess#getEarnedMoney(Ldomain/User;)[F
+open dataAccess.DataAccess#open(Z)V

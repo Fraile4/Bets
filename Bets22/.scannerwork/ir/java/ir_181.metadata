@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#getLastQuoteNumber()I
+==
+close dataAccess.DataAccess#close()V
+getLastQuoteNumber dataAccess.DataAccess#getLastQuoteNumber()I
+open dataAccess.DataAccess#open(Z)V

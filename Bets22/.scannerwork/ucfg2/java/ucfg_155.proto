@@ -1,0 +1,39 @@
+
+)domain.Event#toString()Ljava/lang/String;\
+R/C:/Users/unaif/Documents/I I/SI2/Proiektua/Bets22/src/main/java/domain/Event.javaN N("1*ð
+1O	 O(j
+h
+O	 O(
+%0java.lang.Integer"__id*=
+
+__unknown_file (!*
+domain.Event"
+eventNumberh
+f
+O	 O(
+%1java.lang.String"__concat*%
+O	 O(
+
+%0java.lang.Integer*
+O O(
+;i
+g
+O O($
+%2java.lang.String"__id*=
+
+__unknown_file (!*
+domain.Event"
+descriptionz
+x
+O	 O($
+%3java.lang.String"__concat*$
+O	 O(
+
+%1java.lang.String*$
+O O($
+
+%2java.lang.String"$
+O O(%
+
+%3java.lang.StringB
+domain.EventH

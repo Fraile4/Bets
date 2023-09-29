@@ -1,0 +1,5 @@
+dataAccess.DataAccess#isLogin(Ljava/lang/String;Ljava/lang/String;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getUserName domain.User#getUserName()Ljava/lang/String;
+getPassword domain.User#getPassword()Ljava/lang/String;

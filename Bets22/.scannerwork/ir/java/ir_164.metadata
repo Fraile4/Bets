@@ -1,0 +1,5 @@
+businessLogic.BLFacadeImplementation#createEvent(Ljava/lang/String;Ljava/util/Date;)V
+==
+close dataAccess.DataAccess#close()V
+open dataAccess.DataAccess#open(Z)V
+createEvent dataAccess.DataAccess#createEvent(Ljava/lang/String;Ljava/util/Date;)V

@@ -1,0 +1,5 @@
+dataAccess.DataAccess#addQuestionToEvent(II)V
+==
+contains java.util.Vector#contains(Ljava/lang/Object;)Z
+getQuestions domain.Event#getQuestions()Ljava/util/Vector;
+add java.util.Vector#add(Ljava/lang/Object;)Z

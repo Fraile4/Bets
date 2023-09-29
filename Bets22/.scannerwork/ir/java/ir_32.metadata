@@ -1,0 +1,6 @@
+dataAccess.DataAccess#getEarnedMoney(Ldomain/User;)[F
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getAmount domain.Transaction#getAmount()Ljava/lang/Float;
+getType domain.Transaction#getType()Ljava/lang/String;
+getMovements domain.User#getMovements()Ljava/util/Vector;
