@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-09-29 14:24:38 #1 store] 
+Database 'C:\Users\unaif\Documents\I I\SI2\Proiektua\Bets22\src\main\resources\bets.temp' has been recovered (tr. 182-193)
+
+[2023-09-29 14:24:38 #2 store] 
+Database 'C:\Users\unaif\Documents\I I\SI2\Proiektua\Bets22\src\main\resources\bets.temp' is opened by 10628@Victus
+
+[2023-09-29 14:24:38 #3 type] 
+Type domain.User is not enhanced.
+
+[2023-09-29 14:24:38 #4 type] 
+Type domain.Bet is not enhanced.
+
+[2023-09-29 14:24:38 #5 type] 
+Type domain.Transaction is not enhanced.
+
+[2023-09-29 14:24:38 #6 type] 
+Type domain.Quote is not enhanced.
+
+[2023-09-29 14:24:38 #7 type] 
+Type domain.Question is not enhanced.
+
+[2023-09-29 14:24:38 #8 type] 
+Type domain.Event is not enhanced.
+
