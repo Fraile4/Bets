@@ -1,7 +1,0 @@
-dataAccess.DataAccess#addFunds(Ljava/lang/String;Ljava/lang/Float;Ljava/lang/String;)V
-domain.Transaction#<init>(Ldomain/User;Ljava/lang/Float;Ljava/lang/String;)V
-domain.Transaction#instance-init#
-==
-getMoney domain.User#getMoney()F
-addTransaction domain.User#addTransaction(Ldomain/Transaction;)V
-setMoney domain.User#setMoney(F)V

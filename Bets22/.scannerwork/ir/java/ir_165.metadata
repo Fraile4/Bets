@@ -1,5 +1,0 @@
-businessLogic.BLFacadeImplementation#removeEvent(I)V
-==
-close dataAccess.DataAccess#close()V
-open dataAccess.DataAccess#open(Z)V
-removeEvent dataAccess.DataAccess#removeEvent(I)V

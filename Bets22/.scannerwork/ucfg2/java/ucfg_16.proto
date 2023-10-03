@@ -1,40 +1,0 @@
-
-6dataAccess.DataAccess#getAllEvents()Ljava/util/Vector;g
-[/C:/Users/unaif/Documents/I I/SI2/Proiektua/Bets22/src/main/java/dataAccess/DataAccess.java× ×()"1*ƒ
-1
-Ù Ù(Y
-W
-
-Û Û(4
-getAllEvents1java.util.List"__id*"
-
-__unknown_file (
-""86
-
-Ü# Ü(+
-%0java.util.Vector"java.util.Vector¼
-¹
-
-Ü Ü(:
-%1"0java.util.Vector#<init>(Ljava/util/Collection;)V*4
-
-__unknown_file (
-
-%0java.util.Vector*=
-
-__unknown_file (!
-
-getAllEvents1java.util.Listl
-j
-
-Ü Ü(; 
-getAllEventsjava.util.Vector"__id*4
-
-__unknown_file (
-
-%0java.util.Vector"0
-
-ß ß("
- 
-getAllEventsjava.util.VectorB
-dataAccess.DataAccessH

@@ -1,4 +1,0 @@
-dataAccess.DataAccess#addFollower(Ljava/lang/String;Ljava/lang/String;)V
-==
-addFollowed domain.User#addFollowed(Ldomain/User;)V
-addFollowers domain.User#addFollowers(Ldomain/User;)V

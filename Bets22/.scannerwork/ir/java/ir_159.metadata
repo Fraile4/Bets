@@ -1,5 +1,0 @@
-businessLogic.BLFacadeImplementation#register(Ljava/lang/String;Ljava/lang/String;Z)V
-==
-close dataAccess.DataAccess#close()V
-open dataAccess.DataAccess#open(Z)V
-register dataAccess.DataAccess#register(Ljava/lang/String;Ljava/lang/String;Z)V

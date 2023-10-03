@@ -1,5 +1,0 @@
-domain.User#addTransaction(Ldomain/Transaction;)V
-==
-contains java.util.Vector#contains(Ljava/lang/Object;)Z
-getMovements domain.User#getMovements()Ljava/util/Vector;
-add java.util.Vector#add(Ljava/lang/Object;)Z

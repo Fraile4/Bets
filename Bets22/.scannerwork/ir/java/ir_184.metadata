@@ -1,5 +1,0 @@
-businessLogic.BLFacadeImplementation#removeQuestion(ILjava/util/Vector;)V
-==
-close dataAccess.DataAccess#close()V
-open dataAccess.DataAccess#open(Z)V
-removeQuestion dataAccess.DataAccess#removeQuestion(ILjava/util/Vector;)V

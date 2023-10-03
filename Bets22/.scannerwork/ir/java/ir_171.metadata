@@ -1,5 +1,0 @@
-businessLogic.BLFacadeImplementation#updateEvent(Ldomain/Event;)V
-==
-close dataAccess.DataAccess#close()V
-open dataAccess.DataAccess#open(Z)V
-updateEvent dataAccess.DataAccess#updateEvent(Ldomain/Event;)V

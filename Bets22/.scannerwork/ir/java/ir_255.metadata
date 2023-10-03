@@ -1,7 +1,0 @@
-gui.MainGUI#<init>(Ljava/lang/String;)V
-gui.MainGUI#initialize()V
-java.lang.String#equals(Ljava/lang/Object;)Z
-==
-<init> javax.swing.JFrame#<init>()V
-addWindowListener java.awt.Window#addWindowListener(Ljava/awt/event/WindowListener;)V
-setSelected javax.swing.AbstractButton#setSelected(Z)V

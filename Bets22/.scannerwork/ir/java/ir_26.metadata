@@ -1,5 +1,0 @@
-dataAccess.DataAccess#getBetsFromQuote(Ldomain/Quote;)Ljava/util/Vector;
-java.util.Vector#instance-init#
-java.util.Vector#<init>(Ljava/util/Collection;)V
-==
-getqNumber domain.Quote#getqNumber()I

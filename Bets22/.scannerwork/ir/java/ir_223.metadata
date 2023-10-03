@@ -1,4 +1,0 @@
-gui.DeleteEventGUI#jButtonClose_actionPerformed(Ljava/awt/event/ActionEvent;)V
-java.lang.System#exit(I)V
-==
-setVisible java.awt.Window#setVisible(Z)V

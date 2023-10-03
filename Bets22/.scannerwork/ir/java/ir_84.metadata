@@ -1,4 +1,0 @@
-domain.Question#addQuote(Ldomain/Quote;)V
-==
-contains java.util.Vector#contains(Ljava/lang/Object;)Z
-add java.util.Vector#add(Ljava/lang/Object;)Z

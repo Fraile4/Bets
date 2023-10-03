@@ -1,7 +1,0 @@
-gui.CreateQuestionGUI#paintDaysWithEvents(LJCalendar;Ljava/util/Vector;)V
-java.util.Calendar#setTime(Ljava/util/Date;)V
-==
-println java.io.PrintStream#println(Ljava/lang/Object;)V
-setBackground java.awt.Component#setBackground(Ljava/awt/Color;)V
-set java.util.Calendar#set(II)V
-get java.util.Calendar#get(I)I

@@ -1,89 +1,0 @@
-
-)domain.Quote#toString()Ljava/lang/String;\
-R/C:/Users/unaif/Documents/I I/SI2/Proiektua/Bets22/src/main/java/domain/Quote.javaN N("1*ý
-1O	 O(`
-^
-O	 O(
-%0java.lang.String"__concat*
-O	 O(
-
-Quote{*
-O O(
-
-qNumber=h
-f
-O	 O((
-%1java.lang.String"__concat*$
-O	 O(
-
-%0java.lang.String*
-O! O((
-""q
-o
-O	 O(8
-%2java.lang.String"__concat*$
-O	 O((
-
-%1java.lang.String*
-O+ O(8
-, qAnswer='g
-e
-O; O(B
-%3java.lang.String[]"__id*9
-
-__unknown_file (*
-domain.Quote"	
-qAnswer|
-z
-O	 O(B
-%4java.lang.String"__concat*$
-O	 O(8
-
-%2java.lang.String*&
-O; O(B
-
-%3java.lang.String[]h
-f
-O	 O(I
-%5java.lang.String"__concat*$
-O	 O(B
-
-%4java.lang.String*
-OE O(I
-\'o
-m
-O	 O(W
-%6java.lang.String"__concat*$
-O	 O(I
-
-%5java.lang.String*
-OL O(W
-	, qFloat=c
-a
-OZ O(`
-%7java.lang.Float"__id*8
-
-__unknown_file (*
-domain.Quote"
-qFloaty
-w
-O	 O(`
-%8java.lang.String"__concat*$
-O	 O(W
-
-%6java.lang.String*#
-OZ O(`
-
-%7java.lang.Floatg
-e
-O	 O(f
-%9java.lang.String"__concat*$
-O	 O(`
-
-%8java.lang.String*
-Oc O(f
-}"$
-O O(g
-
-%9java.lang.StringB
-domain.QuoteH

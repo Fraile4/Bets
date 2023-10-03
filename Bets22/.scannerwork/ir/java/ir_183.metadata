@@ -1,5 +1,0 @@
-businessLogic.BLFacadeImplementation#addFollower(Ljava/lang/String;Ljava/lang/String;)V
-==
-close dataAccess.DataAccess#close()V
-open dataAccess.DataAccess#open(Z)V
-addFollower dataAccess.DataAccess#addFollower(Ljava/lang/String;Ljava/lang/String;)V

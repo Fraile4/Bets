@@ -1,179 +1,0 @@
-
-0gui.MainGUI#getLblNewLabel()Ljavax/swing/JLabel;]
-Q/C:/Users/unaif/Documents/I I/SI2/Proiektua/Bets22/src/main/java/gui/MainGUI.javaÏ Ï("3*É
-2
-Ñ# Ñ(1æ
-ã
-
-Ñ# Ñ(H
-%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*8
-
-__unknown_file ("
-java.util.ResourceBundle*)
-
-__unknown_file (
-	Etiquetasüù
-
-Ñ# Ñ(b
-%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*<
-
-__unknown_file ( 
-
-%1java.util.ResourceBundle*,
-
-__unknown_file (
-SelectOption2getString(Ljava/lang/String;)<:
-
-Ñ Ñ("
-%3javax.swing.JLabel"javax.swing.JLabel³
-°
-
-Ñ Ñ(c
-%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*6
-
-__unknown_file (
-
-%3javax.swing.JLabel*4
-
-__unknown_file (
-
-%2java.lang.Strings
-q
-
-Ñ Ñ(c%
-gui.MainGUI"
-jLabelSelectOption"__id*6
-
-__unknown_file (
-
-%3javax.swing.JLabels
-q
-
-Ò Ò(
-%5javax.swing.JLabel"__id*C
-
-__unknown_file ('*%
-gui.MainGUI"
-jLabelSelectOptionC
-A
-
-Ò1 Ò(:	
-%6int"__id*"
-
-__unknown_file (
-""20
-
-Ò" Ò(&
-%7java.awt.Font"java.awt.Fontè
-å
-
-Ò Ò(?
-%8"+java.awt.Font#<init>(Ljava/lang/String;II)V*1
-
-__unknown_file (
-
-%7java.awt.Font*&
-
-__unknown_file (
-
-Tahoma*'
-
-__unknown_file (
-	
-%6int* 
-
-__unknown_file (2ÒÏ
-
-Ò Ò(@
-
-%9void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*6
-
-__unknown_file (
-
-%5javax.swing.JLabel*1
-
-__unknown_file (
-
-%7java.awt.Font2setFont(Ljava/awt/Font;)t
-r
-
-Ó Ó(
-%10javax.swing.JLabel"__id*C
-
-__unknown_file ('*%
-gui.MainGUI"
-jLabelSelectOptionO
-M
-
-Ó$ Ó(/
-%11java.awt.Color"__id*"
-
-__unknown_file (
-""äá
-
-Ó Ó(0
-%12void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*7
-
-__unknown_file (
-
-%10javax.swing.JLabel*3
-
-__unknown_file (
-
-%11java.awt.Color2setForeground(Ljava/awt/Color;)t
-r
-
-Ô Ô(
-%13javax.swing.JLabel"__id*C
-
-__unknown_file ('*%
-gui.MainGUI"
-jLabelSelectOptionD
-B
-
-Ô- Ô(B
-
-%14int"__id*"
-
-__unknown_file (
-""ÉÆ
-
-Ô Ô(C
-%15void"-javax.swing.JLabel#setHorizontalAlignment(I)V*7
-
-__unknown_file (
-
-%13javax.swing.JLabel*(
-
-__unknown_file (
-
-
-%14int2setHorizontalAlignment(I)*
-1*Œ
-3
-Ð Ð(s
-q
-
-Ð Ð(
-%0javax.swing.JLabel"__id*C
-
-__unknown_file ('*%
-gui.MainGUI"
-jLabelSelectOption*
-2
-1*°
-1
-Ö	 Ö(t
-r
-
-Ö	 Ö(
-%16javax.swing.JLabel"__id*C
-
-__unknown_file ('*%
-gui.MainGUI"
-jLabelSelectOption")
-
-Ö Ö(
-
-%16javax.swing.JLabelB
-gui.MainGUI

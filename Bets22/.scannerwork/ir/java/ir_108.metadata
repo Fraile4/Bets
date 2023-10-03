@@ -1,5 +1,0 @@
-domain.User#addFollowers(Ldomain/User;)V
-==
-getFollowers domain.User#getFollowers()Ljava/util/Vector;
-contains java.util.Vector#contains(Ljava/lang/Object;)Z
-add java.util.Vector#add(Ljava/lang/Object;)Z

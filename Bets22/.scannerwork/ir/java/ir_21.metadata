@@ -1,5 +1,0 @@
-dataAccess.DataAccess#getAllQuotes(Ldomain/Question;)Ljava/util/Vector;
-==
-getQuestionNumber domain.Question#getQuestionNumber()Ljava/lang/Integer;
-size java.util.Vector#size()I
-getQuotes domain.Question#getQuotes()Ljava/util/Vector;

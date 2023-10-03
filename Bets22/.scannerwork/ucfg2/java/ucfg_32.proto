@@ -1,52 +1,0 @@
-
-HdataAccess.DataAccess#getBetsFromQuote(Ldomain/Quote;)Ljava/util/Vector;g
-[/C:/Users/unaif/Documents/I I/SI2/Proiektua/Bets22/src/main/java/dataAccess/DataAccess.javaÇ Ç($"1*ë
-1
-È È(xv
-
-Ê$ Ê(6	
-%0int"domain.Quote#getqNumber()I*3
-
-__unknown_file (
-
-quotedomain.Quote2getqNumber()V
-T
-
-Ë Ë(/
-
-resultListjava.util.List"__id*"
-
-__unknown_file (
-""86
-
-Ì Ì(&
-%1java.util.Vector"java.util.Vector¹
-¶
-
-Ì Ì(2
-%2"0java.util.Vector#<init>(Ljava/util/Collection;)V*4
-
-__unknown_file (
-
-%1java.util.Vector*:
-
-__unknown_file (
-
-
-resultListjava.util.Listf
-d
-
-Ì Ì(3
-resultjava.util.Vector"__id*4
-
-__unknown_file (
-
-%1java.util.Vector"*
-
-Î Î(
-
-resultjava.util.Vector:#
-
-Ç% Ç(0
-quotedomain.QuoteB
-dataAccess.DataAccessH

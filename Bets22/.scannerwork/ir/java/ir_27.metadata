@@ -1,9 +1,0 @@
-dataAccess.DataAccess#removeQuestion(ILjava/util/Vector;)V
-java.util.Vector#<init>()V
-java.util.Vector#instance-init#
-==
-getEvent domain.Question#getEvent()Ldomain/Event;
-setQuestions domain.Event#setQuestions(Ljava/util/Vector;)V
-getQuestions domain.Event#getQuestions()Ljava/util/Vector;
-add java.util.Vector#add(Ljava/lang/Object;)Z
-equals java.lang.Object#equals(Ljava/lang/Object;)Z

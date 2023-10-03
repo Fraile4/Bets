@@ -1,5 +1,0 @@
-businessLogic.BLFacadeImplementation#getAllEvents()Ljava/util/Vector;
-==
-getAllEvents dataAccess.DataAccess#getAllEvents()Ljava/util/Vector;
-close dataAccess.DataAccess#close()V
-open dataAccess.DataAccess#open(Z)V

@@ -1,3 +1,0 @@
-dataAccess.DataAccess#updateUser(Ldomain/User;)V
-==
-getBets domain.User#getBets()Ljava/util/Vector;

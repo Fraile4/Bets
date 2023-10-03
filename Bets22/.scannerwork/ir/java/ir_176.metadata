@@ -1,5 +1,0 @@
-businessLogic.BLFacadeImplementation#addBet(Ldomain/Bet;Ljava/lang/String;)V
-==
-addBet dataAccess.DataAccess#addBet(Ldomain/Bet;Ljava/lang/String;)V
-close dataAccess.DataAccess#close()V
-open dataAccess.DataAccess#open(Z)V

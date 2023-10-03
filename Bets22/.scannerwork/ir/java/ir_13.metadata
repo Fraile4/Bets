@@ -1,4 +1,0 @@
-dataAccess.DataAccess#removeUser(Ljava/lang/String;)V
-==
-getMovements domain.User#getMovements()Ljava/util/Vector;
-getBets domain.User#getBets()Ljava/util/Vector;

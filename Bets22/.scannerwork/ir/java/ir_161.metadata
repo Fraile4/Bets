@@ -1,5 +1,0 @@
-businessLogic.BLFacadeImplementation#removeUser(Ljava/lang/String;)V
-==
-close dataAccess.DataAccess#close()V
-removeUser dataAccess.DataAccess#removeUser(Ljava/lang/String;)V
-open dataAccess.DataAccess#open(Z)V

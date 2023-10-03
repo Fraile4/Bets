@@ -1,99 +1,0 @@
-
-/domain.Transaction#toString()Ljava/lang/String;b
-X/C:/Users/unaif/Documents/I I/SI2/Proiektua/Bets22/src/main/java/domain/Transaction.javaC C("3*ß
-2F F(h
-f
-F F(
-%4java.lang.String"__concat*%
-F
- F(
-
-strjava.lang.String*
-F
- F(
--a
-_
-F F(
-strjava.lang.String"__id*4
-
-__unknown_file (
-
-%4java.lang.String*
-1*ò
-3D D(`
-^
-D D(6
-%0java.lang.String"__concat*
-D D(
-Transaction *
-D  D(6
-""h
-f
-D D(=
-%1java.lang.String"__concat*$
-D D(6
-
-%0java.lang.String*
-D9 D(=
-: a
-_
-D D(>
-strjava.lang.String"__id*4
-
-__unknown_file (
-
-%1java.lang.Stringh
-f
-E E(
-%2java.lang.String"__id*<
-
-__unknown_file ( *
-domain.Transaction"
-typeÁ¾
-E E(
-%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
-
-__unknown_file (
-
-%2java.lang.String*#
-
-__unknown_file (
-Bet2equals(Ljava/lang/Object;)*
-2
-1*ç
-1H H(i
-g
-H H(
-%5java.lang.Float"__id*>
-
-__unknown_file ("* 
-domain.Transaction"
-amountf
-d
-H	 H(
-%6java.lang.String"__concat*
-H	 H(
-$*#
-H H(
-
-%5java.lang.Float{
-y
-H H(
-%7java.lang.String"__concat*%
-H	 H(
-
-strjava.lang.String*$
-H	 H(
-
-%6java.lang.Stringa
-_
-H H(
-strjava.lang.String"__id*4
-
-__unknown_file (
-
-%7java.lang.String"%
-I I(
-
-strjava.lang.StringB
-domain.TransactionH
